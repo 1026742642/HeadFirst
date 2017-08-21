@@ -1,7 +1,7 @@
-package Chapter4.FactoryMode.material.impl;
+package Chapter4.FactoryMode.Material.impl;
 
 
-import Chapter4.FactoryMode.material.Dough;
+import Chapter4.FactoryMode.Material.Dough;
 
 /**
  * Created by lenovo on 2017/8/14.

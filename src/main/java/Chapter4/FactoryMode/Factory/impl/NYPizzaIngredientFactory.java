@@ -2,8 +2,8 @@ package Chapter4.FactoryMode.Factory.impl;
 
 
 import Chapter4.FactoryMode.Factory.PizzaIngredientFactory;
-import Chapter4.FactoryMode.material.*;
-import Chapter4.FactoryMode.material.impl.*;
+import Chapter4.FactoryMode.Material.*;
+import Chapter4.FactoryMode.Material.impl.*;
 
 /**
  * Created by lenovo on 2017/8/14.

@@ -1,6 +1,6 @@
-package Chapter4.MyMode.material.impl;
+package Chapter4.MyMode.Material.impl;
 
-import Chapter4.MyMode.material.Sauce;
+import Chapter4.MyMode.Material.Sauce;
 
 /**
  * Created by lenovo on 2017/8/21.

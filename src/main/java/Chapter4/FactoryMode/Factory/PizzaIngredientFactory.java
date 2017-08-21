@@ -1,7 +1,7 @@
 package Chapter4.FactoryMode.Factory;
 
 
-import Chapter4.FactoryMode.material.*;
+import Chapter4.FactoryMode.Material.*;
 
 /**
  * Created by lenovo on 2017/8/14.

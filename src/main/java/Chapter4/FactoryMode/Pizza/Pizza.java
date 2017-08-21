@@ -1,6 +1,6 @@
 package Chapter4.FactoryMode.Pizza;
 
-import Chapter4.FactoryMode.material.*;
+import Chapter4.FactoryMode.Material.*;
 
 import java.util.Arrays;
 
