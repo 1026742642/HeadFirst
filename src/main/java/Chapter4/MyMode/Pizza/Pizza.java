@@ -3,6 +3,7 @@ package Chapter4.MyMode.Pizza;
 import Chapter4.MyMode.Material.*;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * Created by lenovo on 2017/8/22.
@@ -11,7 +12,7 @@ public abstract class Pizza {
     public String name;
     public Dough dough;
     public Sauce sauce;
-    public Veggies veggies[];
+    public List<Veggies> veggies;
     public Cheese cheese;
     public Pepperoni pepperoni;
     public Clams clam;
@@ -44,7 +45,7 @@ public abstract class Pizza {
                 "name='" + name + '\'' +
                 ", dough=" + dough +
                 ", sauce=" + sauce +
-                ", veggies=" + Arrays.toString(veggies) +
+                ", veggies=" + veggies +
                 ", cheese=" + cheese +
                 ", pepperoni=" + pepperoni +
                 ", clam=" + clam +
